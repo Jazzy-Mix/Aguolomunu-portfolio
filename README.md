@@ -20,7 +20,7 @@ You can view my portfolio [here](https://github.com/Jazzy-Mix/Aguolomunu-portfol
 
 ## How to Use
 
-1. Visit the [live website](https://github.com/Jazzy-Mix/Aguolomunu-portfolio.git) to explore my portfolio.
+1. Visit the [http://127.0.0.1:5500/index.html](https://github.com/Jazzy-Mix/Aguolomunu-portfolio.git) to explore my portfolio.
 2. Navigate through the sections using the navigation menu.
 3. Feel free to reach out via the contact information provided.
 
